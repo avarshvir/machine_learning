@@ -4,9 +4,9 @@
 # Machine Learning
 - Machine Learning is defined as "A computer program is said to learn from experience E with respect to some class of tasks T and performance measure P if its performance at tasks in T, as measured by P, improves with experience E.
 - Machine Learning is a branch of AI that develops algorithms by learning the hidden patterns of datasets used it to make predictions on new similar type data, without exlicity programmed for each task.
--                 ___________________
-- -------------->|                   |
--   input        | ML Model          |------------> prediction/program
+-              |___________________
+- -------------|                   |
+                | ML Model          |------------> prediction/program
 -                |                   |
 - -------------->|___________________|
 -   output
