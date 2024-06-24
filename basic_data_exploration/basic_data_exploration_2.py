@@ -9,8 +9,8 @@ import matplotlib.pyplot as plt
 #plt.scatter(x = data1['ID'], y = data1['Sale Price'])
 #plt.show()
 import seaborn as sns
-#sns.boxplot(x = data1['Sale Price'])
-#plt.show()
+sns.boxplot(x = data1['Sale Price'])
+plt.show()
 
 q1 = data1['Sale Price'].quantile(0.25)
 q3 = data1['Sale Price'].quantile(0.75)
